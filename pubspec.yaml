@@ -1,0 +1,24 @@
+name: FIXME_PACKAGE_NAME
+description: FIXME_PACKAGE_DESCRIPTION (60-180 chars)
+version: 0.0.1
+repository: https://github.com/lunofono/FIXME_PACKAGE_NAME
+
+# To be removed when it is published
+publish_to: none
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0 <2.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  pedantic: ^1.9.0
+  test: ^1.15.2
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec

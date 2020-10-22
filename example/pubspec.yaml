@@ -1,0 +1,20 @@
+name: FIXME_PACKAGE_NAME_example
+description: FIXME Demonstrate how to use PACKAGE_DESCRIPTION.
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0 <2.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  FIXME_PACKAGE_NAME:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  pedantic: ^1.9.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
